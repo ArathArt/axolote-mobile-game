@@ -1,21 +1,22 @@
+
 # Axolote
 
-Mobile game developed with Flutter and published on Google Play and App Store.
+Mobile game developed with Flutter and published on Google Play and the App Store.
 
 ## Overview
 
-Axolote is an independent mobile game project developed and maintained by a single developer.
+Axolote is an independent mobile game developed and maintained by a solo developer.
 
-The game combines exploration, collectible cards and story progression, and has been published on both Android and iOS platforms.
+The game combines exploration, collectible cards, interactive storytelling, and character progression. It is available on Android and iOS.
 
 ## Highlights
 
 - 10,000+ downloads
 - 4.5★ rating on Google Play
-- Published on Google Play Store
-- Published on Apple App Store
-- Monetized using Google AdMob
-- Developed independently
+- Published on Google Play
+- Published on the Apple App Store
+- Monetized with Google AdMob
+- Independently developed and maintained
 
 ## Technologies
 
@@ -26,29 +27,41 @@ The game combines exploration, collectible cards and story progression, and has 
 
 ## My Role
 
-This project was developed independently, including:
+As the sole developer, I was responsible for:
 
-- Game design
-- Programming
-- UI implementation
-- Publishing process
-- AdMob integration
+- Game design and development
+- Programming and game mechanics
+- User interface implementation
+- Interactive storytelling and dialogue systems
+- Android and iOS publishing
+- Google AdMob integration
 - Maintenance and updates
 
 ## Screenshots
 
-### Logo
+### Main Menu
 
-![Logo](screenshots/logo.png)
+![Axolote Main Menu](screenshots/main_play.jpeg)
 
-### Gameplay
+The main menu features the game's pixel-art visual style and provides access to gameplay and other features.
 
-![Gameplay](screenshots/gameplay-map.png)
+### Exploration and Gameplay
 
-### Card Collection System
+![Axolote Gameplay](screenshots/play_game.jpeg)
 
-![Cards](screenshots/cards-system.png)
+Explore pixel-art environments, interact with characters, and progress through the game.
 
-### Store Statistics
+### Interactive Story
 
-![Stats](screenshots/playstore-stats.png)
+![Axolote Visual Novel](screenshots/visual_novel.jpeg)
+
+Experience the story through character dialogue and visual novel-style scenes.
+
+## Project Status
+
+Published on Android and iOS, with ongoing maintenance and updates.
+
+## Developer
+
+Developed by [ArathArt](https://github.com/ArathArt).
+
